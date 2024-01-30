@@ -49,8 +49,7 @@ autoclass_content = "both"
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.viewcode',
-    'sphinx.ext.todo',
-    'recommonmark',
+    'sphinx.ext.todo',    
     'sphinxcontrib.youtube'
 ]
 
